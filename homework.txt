@@ -5,6 +5,7 @@
 ||youtubei.googleapis.com^$client=192.168.1.107
 ||youtu.be^$client=192.168.1.107
 ||googlevideo.com^client=192.168.1.107
+||yt3.ggpht.com^$client='sage'
 
 # Steam
 ||steampowered.com^$client=192.168.1.107
