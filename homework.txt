@@ -1,0 +1,34 @@
+! ===== Homework Mode =====
+
+# Video
+||youtube.com^$client=192.168.1.107
+||youtubei.googleapis.com^$client=192.168.1.107
+||youtu.be^$client=192.168.1.107
+
+# Steam
+||steampowered.com^$client=192.168.1.107
+||steamcommunity.com^$client=192.168.1.107
+||steamcontent.com^$client=192.168.1.107
+
+# Riot
+||riotgames.com^$client=192.168.1.107
+||leagueoflegends.com^$client=192.168.1.107
+||playvalorant.com^$client=192.168.1.107
+
+# Activision / Blizzard
+||activision.com^$client=192.168.1.107
+||battle.net^$client=192.168.1.107
+||blizzard.com^$client=192.168.1.107
+
+# Epic / Unreal
+||epicgames.com^$client=192.168.1.107
+||unrealengine.com^$client=192.168.1.107
+
+# Roblox
+||roblox.com^$client=192.168.1.107
+
+# Social
+||tiktok.com^$client=192.168.1.107
+||instagram.com^$client=192.168.1.107
+||discord.com^$client=192.168.1.107
+||twitch.tv^$client=192.168.1.107
